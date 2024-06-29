@@ -306,4 +306,4 @@ Klayers: https://github.com/keithrozario/Klayers/tree/master
 
 Tutorial: https://docs.aws.amazon.com/lambda/latest/dg/with-s3-tutorial.html
 
-Github Link: https://github.com/chinmayto/terraform-aws-s3-event-notifications-sns
+Github Link: https://github.com/chinmayto/terraform-aws-s3-event-image-thumbnail-generator
